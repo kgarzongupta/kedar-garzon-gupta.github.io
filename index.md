@@ -12,7 +12,7 @@ I am a Ph.D. student at Columbia University (2024—), advised by Nikolaus Krieg
 - Artificial Intelligence
 - Neuroscience
 
-## Publications
+## Publications*
 
 - Up-to-date list available on Google Scholar
 
