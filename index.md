@@ -4,18 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Neurobiology & Behavior at Columbia University (2024—), advised by Nikolaus Kriegeskorte. Previously I received a B.S. in Cognitive Science from UCLA (2021), then worked as a Research Assistant at Rockefeller University (2021—2024) under Lucas Tian and Winrich Freiwald.
+I'm a Ph.D. student in Neurobiology & Behavior at Columbia University, in the laboratory of Prof. Nikolaus Kriegeskorte.
+I previously worked as a Postbaccalaureate Research Assistant at The Rockefeller University, in the laboratory of Prof. Winrich Freiwald.
+Prior to that, I received a B.S. in Cognitive Science from UCLA, and assisted research in the laboratory of Prof. Keith Holyoak.
 
 ## Interests
 
-- Machine Learning
-- Artificial Intelligence
-- Neuroscience
+- Neural Architecture Search
+- Dynamic Resource Allocation in Neural Networks
+- Single-Neuron Electrophysiology
 
 ## Publications
 
 - Up-to-date list available on Google Scholar
-
-<br>
-<br>
-**Please cite as <u>Garzón Gupta, K.</u>*
